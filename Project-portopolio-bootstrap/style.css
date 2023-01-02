@@ -1,0 +1,22 @@
+
+footer{
+	background-color: 	  #009900;
+}
+
+.jumbotron{
+	padding: 100px;
+	background-image: url("img/bg3.png");
+	height: 800px;
+	color: #ffffff;
+	/*background-color: 	  #33ff33;*/
+}
+
+#projects{
+	color: #ffffff;
+	background-color: 	  #009900;
+}
+
+section{
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
